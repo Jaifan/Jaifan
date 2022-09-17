@@ -8,17 +8,17 @@
 * [Crypto Transfer](https://jaifan.github.io/krpto_webapp/) || [Git Repository](https://github.com/Jaifan/Crypto_webApp)
 
 ## APIs Projects
-* [Discord & Telegram Chat & Channel System](https://github.com/Jaifan/Discord-Chat-Channel-room-system-API-)
-* [Job Portal System](https://github.com/Jaifan/job-api)
-* [Advance CRUD System](https://github.com/Jaifan/Store-API)
-* [Task Manager System](https://github.com/Jaifan/Task_Manager) 
-* [Mail Server System](https://github.com/Jaifan/MailServer)
+* [Discord & Telegram Chat & Channel System](https://github.com/Jaifan/Discord-Chat-Channel-room-system-API-) || [Deploy Link](https://discord-system-jaifan.herokuapp.com/)
+* [Job Portal System](https://github.com/Jaifan/job-api) || [Deploy Link](https://job-api-jaifan.herokuapp.com/)
+* [Advance CRUD System](https://github.com/Jaifan/Store-API) || [Deploy Link](https://product-crud-api-jaifan.herokuapp.com/)
+* [Task Manager System](https://github.com/Jaifan/Task_Manager)
+* [Mail Server System](https://github.com/Jaifan/MailServer) 
 
 ## Skills and Experience
 * Node | Javascript
 * React
 * Express
-* MongoDB, Mongoose
+* MongoDB | Mongoose
 * Problem Solving
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaifan&layout=compact)](https://github.com/Jaifan/github-readme-stats)
