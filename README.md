@@ -2,6 +2,8 @@
 
 ##### I'm a computer science graduate student who enjoys playing, learning, and building systems with code. During the study period, I was primarily focused on Data Structure and Algorithms. After that, I focused on the development side of the web. I have more than two years of coding experience in web technologies. I build some systems such as APIs, and user-interface with modern technologies. And still try learning something new such as Blockchain, Decentralized & NFTs, etc technologies.
 
+### Portfolio [Link](https://jaifan.github.io/portfolio/)
+
 ## Projects 
 * [Covid-19 Status Tracker](https://jaifan.github.io/covid-tracking-app/) || [Git Repository](https://github.com/Jaifan/covid-19-tracker)
 * [Personal eShop](https://jaifan.github.io/web-commerce/#/) || [Git Repository](https://github.com/Jaifan/web-shop)
