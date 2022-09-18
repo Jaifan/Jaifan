@@ -16,10 +16,12 @@
 
 ## Skills and Experience
 * Node | Javascript
-* React
+* React | Redux-Toolkit
 * Express
 * MongoDB | Mongoose
 * Problem Solving
+* Python | Machine Learning
+* Data Visualization
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaifan&layout=compact)](https://github.com/Jaifan/github-readme-stats)
 
