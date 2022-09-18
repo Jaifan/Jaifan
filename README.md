@@ -8,7 +8,7 @@
 * [Crypto Transfer](https://jaifan.github.io/krpto_webapp/) || [Git Repository](https://github.com/Jaifan/Crypto_webApp)
 
 ## APIs Projects
-* [Discord & Telegram Chat & Channel System](https://github.com/Jaifan/Discord-Chat-Channel-room-system-API-) || [Deploy Link](https://discord-system-jaifan.herokuapp.com/)
+* [Discord Chat & Channel System](https://github.com/Jaifan/Discord-Chat-Channel-room-system-API-) || [Deploy Link](https://discord-system-jaifan.herokuapp.com/)
 * [Job Portal System](https://github.com/Jaifan/job-api) || [Deploy Link](https://job-api-jaifan.herokuapp.com/)
 * [Advance CRUD System](https://github.com/Jaifan/Store-API) || [Deploy Link](https://product-crud-api-jaifan.herokuapp.com/)
 * [Task Manager System](https://github.com/Jaifan/Task_Manager)
