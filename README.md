@@ -21,6 +21,8 @@
 
 ## Skills and Experience
 * Node | Javascript
+* Solidity | Hardhat 
+* Uint Test
 * React | Redux-Toolkit
 * Express
 * MongoDB | Mongoose
