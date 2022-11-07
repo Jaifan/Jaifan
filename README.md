@@ -4,6 +4,9 @@
 
 ### Portfolio [Link](https://jaifan.github.io/portfolio/)
 
+## BlockChain Projects
+* Lottery Smart Contract [EtherScannerLink](https://goerli.etherscan.io/address/0x5c53d8e8F751A406CD24C4BB0f5f33f13d84acF1) || [Git Repository](https://github.com/Jaifan/Lottery-smart-contract)
+
 ## Projects 
 * [Covid-19 Status Tracker](https://jaifan.github.io/covid-tracking-app/) || [Git Repository](https://github.com/Jaifan/covid-19-tracker)
 * [Personal eShop](https://jaifan.github.io/web-commerce/#/) || [Git Repository](https://github.com/Jaifan/web-shop)
@@ -25,6 +28,5 @@
 * Python | Machine Learning
 * Data Visualization
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaifan&layout=compact)](https://github.com/Jaifan/github-readme-stats)
 
 
