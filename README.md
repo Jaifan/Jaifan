@@ -4,8 +4,10 @@
 
 ### Portfolio [Link](https://jaifan.github.io/portfolio/)
 
-## Real Projects Contributions
+## Real Projects Contribution
 * Araby.AI [araby.ai](https://www.araby.ai)
+* Emirates Red Crescent [emiratesrc.ae](https://www.emiratesrc.ae/)
+* NFT Plus(Blockchain) [NFT MarketPlace](https://nft-plus.me/)
 
 ## BlockChain Projects
 * Lottery Smart Contract [EtherScannerLink](https://goerli.etherscan.io/address/0x5c53d8e8F751A406CD24C4BB0f5f33f13d84acF1) || [Git Repository](https://github.com/Jaifan/Lottery-smart-contract)
