@@ -47,7 +47,7 @@
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=black&logo=PyTorch&logoColor=FFFFFF&label=)
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=black&logo=pandas&logoColor=FFFFFF&label=)
 
-#### *Collabotions & Code ->*
+#### *collaboration & Code ->*
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=black&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=black&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=black&logo=GitLab&logoColor=FFFFFF&label=)
