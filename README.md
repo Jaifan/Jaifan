@@ -53,7 +53,7 @@
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=black&logo=GitLab&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=black&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
-## BlockChain Projects
+## Blockchain Projects
 * Lottery Smart Contract [EtherScannerLink](https://goerli.etherscan.io/address/0x5c53d8e8F751A406CD24C4BB0f5f33f13d84acF1) || [Git Repository](https://github.com/Jaifan/Lottery-smart-contract)
 
 ## Projects 
