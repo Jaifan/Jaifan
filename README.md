@@ -14,18 +14,20 @@
 ## Skills
 
 #### *Web Development Tools ->*
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=black&logo=JavaScript&logoColor=FFFFFF&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=black&logo=Node.js&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=black&logo=React&logoColor=FFFFFF&label=)
+![Ruby](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=black&logo=Ruby&logoColor=FF0000&label=)
+![Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=black&logo=Ruby+on+Rails&logoColor=FF0000&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=black&logo=JavaScript&logoColor=FFFF00&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=black&logo=Node.js&logoColor=008000&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=black&logo=React&logoColor=ADD8E6&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=black&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=black&logo=Python&logoColor=FFFFFF&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=black&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=black&logo=MongoDB&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=black&logo=MongoDB&logoColor=008000&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=black&logo=Express&logoColor=FFFFFF&label=)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=black&logo=MySQL&logoColor=FFFFFF&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=black&logo=Firebase&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=black&logo=MySQL&logoColor=ADD8E6&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=black&logo=Firebase&logoColor=FFFF00&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=black&logo=Django&logoColor=FFFFFF&label=)
-![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=black&logo=Laravel&logoColor=FFFFFF&label=)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=black&logo=Laravel&logoColor=FF0000&label=)
 
 #### *Blockchain Tools ->*
 ![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=black&logo=Solidity&logoColor=FFFFFF&label=)
