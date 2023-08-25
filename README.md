@@ -1,6 +1,17 @@
 ## Hello and Welcome 👋, I'm Jafran Bin Zakaria
 
-##### I am a passionate developer with a strong focus on web development, blockchain, and machine learning. My GitHub profile showcases my expertise in various programming languages and technologies, including JavaScript, Python, ReactJS, Node.js, Express, Next.js, SQL, NoSQL, and AWS cloud services. With a commitment to open-source contributions and continuous learning, I actively engage in collaborative projects to expand my skills and stay updated with the latest trends in the industry.
+##### 👋 Hey there! I'm a passionate Full Stack Developer with 3 years of hands-on experience crafting robust and innovative web applications. My expertise spans a wide range of technologies, from backend to frontend, and even diving into the world of AWS services. Let me give you a glimpse of what I bring to the table:
+
+🛠️ Tech Stack: I thrive in both the Ruby on Rails and Laravel ecosystems, leveraging their powerful features to architect efficient backend systems. I can seamlessly transition to the frontend with React, creating dynamic and responsive user interfaces that deliver exceptional user experiences. My proficiency also extends to Node.js, enabling me to build real-time applications and APIs.
+
+☁️ AWS Wizardry: I have a solid background in AWS web services, including managing AWS EC2 instances, fine-tuning their performance, and ensuring high availability. Leveraging AWS RDS, I've designed and maintained relational databases like MariaDB, ensuring data integrity and efficient query performance. My experience in Docker and Kubernetes empowers me to containerize applications, ensuring consistent deployment across various environments.
+
+🌐 Web Craftsmanship: I'm a strong advocate for clean code, modular architecture, and industry best practices. I've successfully collaborated with cross-functional teams, from designers to product managers, ensuring seamless communication and on-time delivery of projects.
+
+🌟 What's Next?: I'm constantly driven to learn and adapt in this ever-evolving tech landscape. I'm excited to explore new technologies, contribute to open-source projects, and take on challenges that push the boundaries of what's possible in web development.
+
+If you're seeking a dedicated Full Stack Developer who can bring your vision to life, streamline processes, and create exceptional digital experiences, I'd love to chat. Let's collaborate and build something amazing together! 🚀👨‍💻
+
 [![Linkedin Badge](https://img.shields.io/badge/JafranBinZakaria-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jafran-bin-zakaria/)](https://www.linkedin.com/in/jafran-bin-zakaria/)
 [![Gmail Badge](https://img.shields.io/badge/-jafranbinzakaria@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jafranbinzakaria@gmail.com)](mailto:jafranbinzakaria@gmail.com)
 
